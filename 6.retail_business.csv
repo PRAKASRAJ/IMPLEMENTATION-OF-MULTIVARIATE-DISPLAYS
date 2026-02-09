@@ -1,0 +1,51 @@
+Order_ID,Region,Product_Category,Sales,Profit,Discount,Customer_Segment
+9001,South,Office Supplies,1226,4471,0.09,Home Office
+9002,West,Office Supplies,3236,3370,0.44,Corporate
+9003,South,Furniture,14332,1972,0.48,Home Office
+9004,South,Furniture,11862,3295,0.23,Corporate
+9005,East,Furniture,13831,3721,0.44,Corporate
+9006,East,Furniture,2413,-1087,0.0,Corporate
+9007,South,Office Supplies,14564,2549,0.41,Corporate
+9008,South,Technology,10288,-1964,0.11,Consumer
+9009,South,Furniture,10606,1387,0.45,Consumer
+9010,East,Technology,8157,-289,0.0,Home Office
+9011,East,Furniture,2966,1020,0.28,Consumer
+9012,North,Furniture,11429,-1205,0.38,Consumer
+9013,North,Technology,9541,2036,0.13,Home Office
+9014,South,Office Supplies,10801,3068,0.1,Home Office
+9015,West,Furniture,7812,2688,0.04,Home Office
+9016,West,Furniture,8694,3233,0.16,Consumer
+9017,East,Furniture,12947,1111,0.28,Consumer
+9018,East,Technology,8406,-676,0.06,Home Office
+9019,East,Office Supplies,12761,4367,0.19,Corporate
+9020,South,Technology,5376,-1683,0.0,Home Office
+9021,West,Technology,7787,396,0.41,Corporate
+9022,North,Office Supplies,1392,162,0.06,Corporate
+9023,South,Technology,10722,745,0.14,Home Office
+9024,North,Office Supplies,11852,3442,0.01,Home Office
+9025,North,Furniture,11068,-409,0.22,Home Office
+9026,South,Office Supplies,5175,1111,0.42,Consumer
+9027,North,Furniture,2433,3985,0.2,Corporate
+9028,West,Technology,1880,4183,0.09,Consumer
+9029,North,Technology,12373,1930,0.38,Consumer
+9030,West,Furniture,1790,-4,0.39,Home Office
+9031,West,Technology,2140,3868,0.09,Consumer
+9032,West,Office Supplies,13739,-688,0.39,Home Office
+9033,East,Furniture,7990,-715,0.47,Corporate
+9034,North,Technology,11374,2311,0.08,Home Office
+9035,South,Furniture,9679,383,0.39,Consumer
+9036,South,Office Supplies,1718,1239,0.35,Consumer
+9037,North,Office Supplies,5516,139,0.24,Home Office
+9038,East,Technology,7381,4496,0.03,Home Office
+9039,East,Office Supplies,10047,4714,0.04,Consumer
+9040,West,Furniture,12957,4959,0.43,Corporate
+9041,North,Office Supplies,13308,-296,0.5,Corporate
+9042,North,Furniture,14274,4924,0.34,Home Office
+9043,South,Furniture,12827,-1638,0.22,Corporate
+9044,North,Office Supplies,10252,604,0.32,Consumer
+9045,East,Technology,10110,-284,0.3,Home Office
+9046,North,Office Supplies,1454,3289,0.19,Consumer
+9047,South,Furniture,9675,2451,0.03,Consumer
+9048,West,Furniture,7791,2286,0.41,Corporate
+9049,South,Office Supplies,1474,1738,0.19,Home Office
+9050,South,Technology,4633,469,0.41,Home Office
